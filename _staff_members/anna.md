@@ -1,6 +1,6 @@
 ---
-name: Anna Thompson
+name: Riaz Ahamed
 position: Developer
-image_path: "https://unsplash.it/600/503?image=1025&a=.png"
+image_path: "http://i67.tinypic.com/znvia8.png"
 twitter: CloudCannonApp
 ---
