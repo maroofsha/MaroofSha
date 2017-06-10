@@ -1,7 +1,7 @@
 ---
-name: Hydra Template
-subtitle: Product marketing template for Jekyll
-external_url: https://github.com/CloudCannon/hydra-jekyll-template
+name: Herbal Skin Soaks
+subtitle: Our Skincare Blog
+external_url: https://www.herbalskinsoaks.blospot.com
 image_path: /images/clients/hydra.png
 ---
 
