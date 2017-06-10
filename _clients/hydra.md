@@ -2,7 +2,7 @@
 name: Herbal Skin Soaks
 subtitle: Our Skincare Blog
 external_url: https://www.herbalskinsoaks.blospot.com
-image_path: /images/clients/hydra.png
+image_path: http://i68.tinypic.com/28jd2er.png
 ---
 
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
