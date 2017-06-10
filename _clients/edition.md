@@ -2,7 +2,7 @@
 name: Little Bit Sewing
 subtitle: Our sewing blog
 external_url: https://www.littlebitsewing.com
-image_path: /images/clients/edition.png
+image_path: http://i63.tinypic.com/kb88hv.png
 ---
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
