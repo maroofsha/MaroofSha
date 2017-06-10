@@ -1,7 +1,7 @@
 ---
-name: Malt Template
-subtitle: Event marketing template for Jekyll
-external_url: https://github.com/CloudCannon/malt-jekyll-template
+name: Pugaippadams
+subtitle: Our Photo Blog
+external_url: https://www.pugaippadams.blogspot.com
 image_path: /images/clients/malt.jpg
 ---
 
