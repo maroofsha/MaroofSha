@@ -2,7 +2,7 @@
 name: A Vagrant Diner
 subtitle: Our food blog
 external_url: https://www.avagrantdiner.com
-image_path: /images/clients/frisco.jpg
+image_path: http://i66.tinypic.com/35in9ya.png
 ---
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
