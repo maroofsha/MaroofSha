@@ -1,18 +1,18 @@
 ---
 title: Portfolio
-heading: Our Work
-subtitle: See some of our proud customers with exemplary results.
+heading: Our Blogs
+subtitle: At MaroofSha we entertain handcrafting.
 ---
 
 <section class="diagonal patterned">
 	<div class="container">
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/" class="btn"><strong>&#9998;</strong> Manage Clients</a></p>
+ <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/" class="btn"><strong>&#9998;</strong> Manage Clients</a></p>
 		<ul class="image-grid">
 			{% for client in site.clients %}
 				<li>
 					<a href="{{ site.baseurl }}{{ client.url }}">
-						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
-						<div class="details">
+				<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
+				<div class="details">
 							<div class="name">{{ client.name }}</div>
 							<div class="position">{{ client.subtitle }}</div>
 						</div>
