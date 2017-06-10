@@ -13,18 +13,18 @@
 - title: Social
   links:
     - name: Facebook
-      link:http://www.facebook.com/maroofsha.5
+      link:
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link:http://www.twitter.com/maroofsha2012
+      link:
       social_icon: Twitter
       new_window: true
     - name: Google+
-      link:https://plus.google.com/113866337591965664296
+      link:
       social_icon: Google Plus
       new_window: true
     - name: LinkedIn
-      link:https://www.linkedin.com/in/maroof-sha-9a56821b
+      link:
       social_icon: LinkedIn
       new_window: true
