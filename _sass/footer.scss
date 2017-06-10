@@ -2,7 +2,7 @@ footer {
 	@extend section;
 	padding: 100px 0 50px 0;
 	position: relative;
-	background: #dfa2c3;
+	background: $html-background-color;
 	color: #fff;
 
 	&,
