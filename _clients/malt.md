@@ -2,7 +2,7 @@
 name: Pugaippadams
 subtitle: Our Photo Blog
 external_url: https://www.pugaippadams.blogspot.com
-image_path: /images/clients/malt.jpg
+image_path: http://i63.tinypic.com/20z9oix.png
 ---
 
 Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/).
