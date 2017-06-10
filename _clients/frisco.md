@@ -1,7 +1,7 @@
 ---
-name: Frisco Template
-subtitle: App marketing template for Jekyll
-external_url: https://github.com/CloudCannon/frisco-jekyll-template
+name: A Vagrant Diner
+subtitle: Our food blog
+external_url: https://www.avagrantdiner.com
 image_path: /images/clients/frisco.jpg
 ---
 
