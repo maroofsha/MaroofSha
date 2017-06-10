@@ -1,7 +1,7 @@
 ---
-name: Edition Template
-subtitle: Product documentation template for Jekyll
-external_url: https://github.com/CloudCannon/edition-jekyll-template
+name: Little Bit Sewing
+subtitle: Our sewing blog
+external_url: https://www.littlebitsewing.com
 image_path: /images/clients/edition.png
 ---
 
