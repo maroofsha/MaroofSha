@@ -1,6 +1,6 @@
 ---
 name: Riaz Ahamed
-position: Developer
+position: Managing Director
 image_path: "http://i67.tinypic.com/znvia8.png"
 twitter: CloudCannonApp
 ---
