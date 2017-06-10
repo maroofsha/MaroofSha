@@ -2,7 +2,7 @@
 name: All Purpose Crafts
 subtitle: Our Craft Blog
 external_url: https://www.allpurposecrafts.blogspot.com
-image_path: /images/clients/justice.jpg
+image_path: http://i68.tinypic.com/15yxlia.png
 ---
 
 Law firm themed business template for Jekyll. Browse through a [live demo](https://grey-grouse.cloudvent.net/).
