@@ -1,7 +1,7 @@
 ---
-name: Justice Template
-subtitle: Law firm themed business template for Jekyll
-external_url: https://github.com/CloudCannon/justice-jekyll-template
+name: All Purpose Crafts
+subtitle: Our Craft Blog
+external_url: https://www.allpurposecrafts.blogspot.com
 image_path: /images/clients/justice.jpg
 ---
 
