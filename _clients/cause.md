@@ -2,7 +2,7 @@
 name: Maroofsha soaps
 subtitle: A handcrafted soap blog
 external_url: https://www.maroofshasoaps.com
-image_path: /images/clients/cause.jpg
+image_path: http://i67.tinypic.com/10ddx12.png
 ---
 
 Not for profit themed template for Jekyll. Browse through a [live demo](#TODO).
