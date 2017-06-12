@@ -10,19 +10,12 @@ subtitle: Profiles &amp; Traits of our team members.
 <a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
 		<ul class="image-grid">
 			{% for member in site.staff_members %}
-				<li>
-					<a href="{{ site.baseurl }}{{ member.url }}">
-				<img src="{% include relative-src.html src=member.image_path %}" alt="{{ person.name }}">
-				<div class="details">
-							<div class="name">{{ member.name }}</div>
-							<div class="position">{{ member.subtitle }}</div>
-						</div>
-					</a>
-				</li>
+				<li>{% include staff-member.html member=member %}</li>
 			{% endfor %}
 		</ul>
 	</div>
 </section>
+
 
 
 
